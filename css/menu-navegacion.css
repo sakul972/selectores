@@ -6,3 +6,16 @@
    - Sin subrayado 
 
 */
+
+#menuPrincipal {
+    background-color: #333;
+}
+
+.listaMenu {
+    list-style-type: none;
+}
+
+#menuPrincipal a {
+    color: white;
+    text-decoration: none;
+}
