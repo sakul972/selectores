@@ -1,0 +1,55 @@
+/* Todos los elementos de la página */
+* {
+    color: #666;
+    font-size: 1rem;
+}
+
+
+/* Todos los elementos <h1> de la página */
+/* {
+    font-weight: bold;
+    font-size: 3rem;
+} */
+
+
+
+/* Todos los elementos <li> de la página */
+/* {
+    font-size: 1rem;
+} */
+
+
+
+/* Todos los elementos <a> de la página */
+/* {
+    color: rgb(11, 73, 153);
+    font-weight: bold;
+    font-size: 1rem
+} */
+
+
+
+/* El elemento section con id "introduccion" */
+/* {
+    background-color: #faebd7;
+    padding: 1rem;
+} */
+
+
+
+/* El elemento section con id "indice-contenido" */
+/* {
+    background-color: #f5f8fa;
+    padding: 1rem;
+} */
+
+
+
+/* Todos los elementos con la clase resaltar */
+/* {
+    background: #5be4fc;
+    font-weight: bold;
+    font-size: 1rem;
+    padding-left: 8px;
+    padding-right: 8px;
+} */
