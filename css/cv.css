@@ -11,3 +11,31 @@
 
 6. Aumenta el tamaño de la etiqueta <h1> a 28px. 
 */
+
+#titulo {
+    color: purple;
+    text-align: center;
+}
+
+.seccion {
+    background-color: lightblue;
+}
+
+p {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.detalle {
+    color: gray;
+    font-style: italic;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 28px;
+}
